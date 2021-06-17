@@ -12,4 +12,7 @@ Stack Overflow for Opinionated System Design
   - Don’t ask “best architecture”, but “can this be implemented and maintained in a reasonable fashion
   - 0 = This is copy and pasted homework. Provide more info and propose a solution
   - 1 = This could have major security, regulatory, cost issues. Do not implement this solution
-  - 2 = Technically doable but would require lots of custom work, patching systems together, etc
+  - 2 = Technically doable but would not recommend
+  - 3 = Works but here are a few things to consider
+  - 5 = This is great, if you wanted to optimize, consider this...
+  - 6 = This is awesome, can I pay you for some work, advice, consulting?
