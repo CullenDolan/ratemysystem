@@ -16,3 +16,8 @@ Stack Overflow for Opinionated System Design
   - 3 = Works but here are a few things to consider
   - 5 = This is great, if you wanted to optimize, consider this...
   - 6 = This is awesome, can I pay you for some work, advice, consulting?
+
+### Inspirations
+- StackExchange
+- IMDB
+- Rate My Professor, Rate My Dorm, but not anonymous
