@@ -21,3 +21,4 @@ Stack Overflow for Opinionated System Design
 - StackExchange
 - IMDB
 - Rate My Professor, Rate My Dorm, but not anonymous
+- Wikipedia
